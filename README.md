@@ -4,11 +4,17 @@ Restructured Text Primer
 Basic markup
 ------------
 
+Bold and Italics
+................
+
 This is how you write **bold**.
 
 This is how you write *italics*.
 
 This is how you do a hyperlink: http://google.com
+
+Bullets
+.......
 
 A bullet list:
 
@@ -19,6 +25,9 @@ A numbered list:
 
 #. Item one
 #. Item two
+
+Tables
+......
 
 Here is how to make a simple table:
 
