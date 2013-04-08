@@ -13,6 +13,8 @@ This is how you write *italics*.
 
 This is how you do a hyperlink: http://google.com
 
+For RST reference: http://docutils.sourceforge.net/rst.html
+
 Bullets
 .......
 
